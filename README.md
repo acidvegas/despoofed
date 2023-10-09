@@ -47,6 +47,12 @@ You can lookup a specific ASN to get a report on it, for example here is the rep
 - [MANRS API](https://manrs.stoplight.io/docs/manrs-public-api/38c368e1d6b43-manrs-public-api)
 - [DDoS Aspire Final Report](https://www.caida.org/funding/ddos-aspire/ddos-aspire_finalreport.pdf)
 
+## Todo
+- Compile list of blocked ASN's world-wide to discover ASN's that can allow spoofing
+- Shit on people like [this](https://spoofer.network/)
+- Show CAIDA spoofer software result samples
+- Include code to automate finding ASN's that will allow spoofing
+
 ---
 
 ###### Mirrors
