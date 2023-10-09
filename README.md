@@ -52,6 +52,7 @@ You can lookup a specific ASN to get a report on it, for example here is the rep
 - Shit on people like [this](https://spoofer.network/)
 - Show CAIDA spoofer software result samples
 - Include code to automate finding ASN's that will allow spoofing
+- CAIDA API documentation
 
 ---
 
