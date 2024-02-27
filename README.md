@@ -43,9 +43,11 @@ The significance of the Spoofer Project lies in its potential to highlight areas
 You can lookup a specific ASN to get a report on it, for example here is the report for [OVH](https://spoofer.caida.org/as.php?asn=16276).
 
 ## References
+- [RFC 3704 - Ingress Filtering for Multihomed Networks](https://datatracker.ietf.org/doc/html/rfc3704)
 - [SAVing the Internet - Measuring the adoption of Source Address Validation (SAV) by network providers](https://pure.tudelft.nl/ws/portalfiles/portal/115359139/Final_Submission.pdf)
 - [MANRS API](https://manrs.stoplight.io/docs/manrs-public-api/38c368e1d6b43-manrs-public-api)
 - [DDoS Aspire Final Report](https://www.caida.org/funding/ddos-aspire/ddos-aspire_finalreport.pdf)
+- [Mind Your MANRS - Measuring the MANRS Ecosystem](https://www.caida.org/catalog/papers/2022_mind_your_manrs/mind_your_manrs.pdf)
 
 ## Todo
 - Compile list of blocked ASN's world-wide to discover ASN's that can allow spoofing
@@ -54,7 +56,6 @@ You can lookup a specific ASN to get a report on it, for example here is the rep
 - Include code to automate finding ASN's that will allow spoofing
 - CAIDA API documentation
 
----
+___
 
-###### Mirrors
-[acid.vegas](https://git.acid.vegas/despoofed) • [GitHub](https://github.com/acidvegas/despoofed) • [GitLab](https://gitlab.com/acidvegas/despoofed) • [SuperNETs](https://git.supernets.org/acidvegas/despoofed)
+###### Mirrors for this repository: [acid.vegas](https://git.acid.vegas/despoofed) • [SuperNETs](https://git.supernets.org/acidvegas/despoofed) • [GitHub](https://github.com/acidvegas/despoofed) • [GitLab](https://gitlab.com/acidvegas/despoofed) • [Codeberg](https://codeberg.org/acidvegas/despoofed)
